@@ -1,0 +1,16 @@
+.h1{
+    margin: auto;
+}
+
+#Header{
+   background-color: #181818;
+   background-size: cover;
+   background-repeat: no-repeat;
+   margin: auto;     
+}
+
+#Welcome{
+    background-color: black;
+    margin: auto;
+    color: white;
+}
